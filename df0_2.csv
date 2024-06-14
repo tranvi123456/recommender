@@ -1,0 +1,774 @@
+CourseId,CourseName
+768,What is Data Science?
+212,Data Science Challenge
+374,Go Beyond the Numbers: Translate Data into Insights
+328,"Foundations: Data, Data, Everywhere"
+375,Google Advanced Data Analytics Capstone
+194,Data Analytics for Lean Six Sigma
+221,Data Science for Business Innovation
+722,The Path to Insights: Data Models and Pipelines
+435,Introduction to Machine Learning
+347,Generative AI: Elevate Your Data Science Career
+249,Data-driven Decision Making
+720,The Data Scientist’s Toolbox
+59,Applied Machine Learning in Python
+252,Databases and SQL for Data Science with Python
+45,An Intuitive Introduction to Probability
+263,Deep Neural Networks with PyTorch
+176,Data Analysis Using Pyspark
+743,Understanding and Visualizing Data with Python
+381,HR Analytics- Build an HR dashboard using Power BI
+464,Julia for Beginners in Data Science
+219,Data Science as a Field
+289,Econometrics: Methods and Applications
+545,NLP: Twitter Sentiment Analysis
+709,Supervised Machine Learning: Regression and Classification
+231,Data Visualization and Communication with Tableau
+198,Data Ecosystem
+636,R Programming
+665,SQL: A Practical Introduction for Querying Databases
+359,Get Started with Python
+384,Health Data Science Foundation
+295,Essential Causal Inference Techniques for Data Science
+641,Regression Analysis: Simplify Complex Data Relationships
+650,Research Data Management and Sharing
+696,Statistical Inference for Estimation in Data Science
+674,"Sequences, Time Series and Prediction"
+626,Python Project for Data Science
+324,Foundations of Business Intelligence
+151,Computational Neuroscience
+278,"DevOps, DataOps, MLOps"
+463,Julia Scientific Programming
+256,"Decisions, Decisions: Dashboards and Reports"
+89,Bioconductor for Genomic Data Science
+721,The Nuts and Bolts of Machine Learning
+27,Advanced Clinical Data Science
+306,Exploratory Data Analysis for Machine Learning
+625,Python Packages for Data Science
+238,Data Visualization with Advanced Excel
+552,Natural Language Processing with Probabilistic Models
+70,AutoML tools for data science
+695,Statistical Inference and Hypothesis Testing in Data Science Applications
+334,Fundamentals of Machine Learning for Healthcare
+662,SQL for Data Science
+349,Generative AI: Foundation Models and Platforms
+363,Getting Started with Data Analytics on AWS
+383,Harnessing the Power of Data with Power BI
+661,SQL for Beginners: Querying Data
+95,Build Dashboards in Power BI
+450,Introduction to R Programming for Data Science
+613,Probability Theory: Foundation for Data Science
+633,Python for Genomic Data Science
+338,Fundamentals of Scalable Data Science
+222,Data Science in Health Technology Assessment
+701,Statistics for Genomic Data Science
+147,Command Line Tools for Genomic Data Science
+663,SQL for Data Science Capstone Project
+512,Making Data Science Work for Clinical Reporting
+689,Spatial Data Science and Applications
+216,Data Science Fundamentals for Data Analysts
+186,Data Analysis with Python
+569,Pandas Python Library for Beginners in Data Science
+418,Introduction to Clinical Data Science
+426,Introduction to Data Science and scikit-learn in Python
+35,Advanced Linear Models for Data Science 1: Least Squares
+36,Advanced Linear Models for Data Science 2: Statistical Linear Models
+409,"Intro to Analytic Thinking, Data Science, and Data Mining"
+211,Data Science Capstone
+218,Data Science Project: MATLAB for the Real World
+297,Ethical Issues in Data Science
+631,"Python for Data Science, AI & Development"
+217,Data Science Methodology
+24,Address Business Issues with Data Science
+150,Communicating Data Science Results
+220,Data Science at Scale - Capstone Project
+345,Generative AI for Everyone
+621,Prompt Engineering for ChatGPT
+68,Ask Questions to Make Data-Driven Decisions
+558,Neural Networks and Deep Learning
+34,Advanced Learning Algorithms
+600,Prepare Data for Exploration
+412,Introduction to Artificial Intelligence (AI)
+616,Process Data from Dirty to Clean
+746,"Unsupervised Learning, Recommenders, Reinforcement Learning"
+50,Analyze Data to Answer Questions
+396,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
+505,Machine Learning with Python
+3,A Crash Course in Data Science
+351,Generative AI: Introduction and Applications
+679,Share Data Through the Art of Visualization
+603,Preparing Data for Analysis with Microsoft Excel
+436,Introduction to Machine Learning in Production
+158,Convolutional Neural Networks
+673,Sequence Models
+377,Google Data Analytics Capstone: Complete a Case Study
+706,Structuring Machine Learning Projects
+551,Natural Language Processing with Classification and Vector Spaces
+232,Data Visualization and Dashboards with Excel and Cognos
+489,Machine Learning Foundations for Product Managers
+488,Machine Learning Data Lifecycle in Production
+241,Data Visualization with Python
+736,Trustworthy Generative AI
+159,Convolutional Neural Networks in TensorFlow
+456,Introduction to Statistics
+17,AI for Medical Diagnosis
+417,Introduction to Clinical Data
+181,Data Analysis and Visualization with Power BI
+311,"Extract, Transform and Load Data in Power BI"
+528,Mathematics for Machine Learning: Linear Algebra
+93,Build Basic Generative Adversarial Networks (GANs)
+7,AI Strategy and Governance
+419,Introduction to Computer Vision and Image Processing
+431,Introduction to Deep Learning & Neural Networks with Keras
+585,Pre-MBA Statistics
+492,Machine Learning Modeling Pipelines in Production
+4,AI Applications in People Management
+555,Navigating Generative AI: A CEO Playbook
+548,Natural Language Processing in TensorFlow
+209,Data Modeling in Power BI
+337,Fundamentals of Reinforcement Learning
+271,Deploying Machine Learning Models in Production
+427,Introduction to Data Science in Python
+710,Supply Chain Management and Analytics
+550,Natural Language Processing with Attention Models
+16,AI and Public Health
+298,Evaluations of AI Applications in Healthcare
+553,Natural Language Processing with Sequence Models
+388,IBM Data Analyst Capstone Project
+538,Microsoft PL-300 Exam Preparation and Practice
+491,Machine Learning Introduction for Everyone
+445,Introduction to Probability and Data with R
+610,Probabilistic Graphical Models 1: Representation
+107,Building Deep Learning Models with TensorFlow
+168,Creative Designing in Power BI
+28,Advanced Computer Vision with TensorFlow
+340,GPT Vision: Seeing the World through Generative AI
+57,Applied Data Science Capstone
+94,Build Better Generative Adversarial Networks (GANs)
+170,"Custom Models, Layers, and Loss Functions with TensorFlow"
+14,AI and Climate Change
+434,Introduction to Genomic Technologies
+2,A Crash Course in Causality: Inferring Causal Effects from Observational Data
+516,Managing Machine Learning Projects
+376,Google Cloud Big Data and Machine Learning Fundamentals
+270,Deploy and Maintain Power BI Assets and Capstone project
+69,Assessment for Data Analysis and Visualization Foundations
+708,Supervised Machine Learning: Regression
+460,"Introduction to Trading, Machine Learning & GCP"
+367,Getting Started with SAS Programming
+344,Generative AI Essentials: Overview and Impact
+615,Problem Solving with Excel
+433,Introduction to Embedded Machine Learning
+666,Sample-based Learning Methods
+18,AI for Medical Prognosis
+63,Apply Generative Adversarial Networks (GANs)
+732,Tools for Data Science
+728,The Structured Query Language (SQL)
+129,"Capstone: Retrieving, Processing, and Visualizing Data with Python"
+416,Introduction to Business Analytics
+81,Bayesian Statistics: From Concept to Data Analysis
+5,AI Capstone Project with Deep Learning
+339,Fundamentals of Visualization with Tableau
+77,Basic Statistics
+655,Rust Fundamentals
+6,AI For Medical Treatment
+707,Supervised Machine Learning: Classification
+439,Introduction to Microsoft 365 Copilot
+330,Fundamental Skills in Bioinformatics
+387,Human Factors in AI
+341,GenAI for Everyone
+459,Introduction to Tableau
+365,Getting Started with R
+173,Custom and Distributed Training with TensorFlow
+246,"Data Wrangling, Analysis and AB Testing with SQL"
+537,Microsoft Azure for Data Engineering
+529,Mathematics for Machine Learning: PCA
+684,Social Media Data Analytics
+188,Data Analysis with R
+502,Machine Learning with Apache Spark
+15,AI and Disaster Management
+753,Using Data Analytics in Supply Chain
+52,Analyzing and Visualizing Data in Looker
+42,Algorithms for DNA Sequencing
+38,Advanced Machine Learning and Signal Processing
+53,Apache Spark (TM) SQL for Data Analysts
+432,Introduction to Designing Data Lakes on AWS
+55,Applied AI with DeepLearning
+189,Data Analysis with R Programming
+287,Doing Economics: Measuring Climate Change
+441,Introduction to Microsoft Excel
+116,Business Analysis Process
+697,"Statistical Thinking for Industrial Problem Solving, presented by JMP"
+611,Probabilistic Graphical Models 2: Inference
+614,Probability and Statistics: To p or not to p?
+160,Copywriting with ChatGPT: Produce Compelling Copy That Sells
+137,Classification of COVID19 using Chest X-ray Images in Keras
+258,Deep Learning and Reinforcement Learning
+730,The Unix Workbench
+593,Prediction and Control with Function Approximation
+468,Leveraging AI for Enhanced Content Creation
+474,Linear Regression and Modeling
+353,Generative Deep Learning with TensorFlow
+399,Inferential Statistics
+466,Launching into Machine Learning
+422,Introduction to Data Analysis Using Excel
+1,A Complete Reinforcement Learning System (Capstone)
+156,Computer Vision with Embedded Machine Learning
+67,Artificial Intelligence for Breast Cancer Detection
+690,Specialized Models: Time Series and Survival Analysis
+652,Responsible AI - Principles and Ethical Considerations
+121,Business Metrics for Data-Driven Companies
+243,Data Visualization with Tableau
+747,Unsupervised Machine Learning
+756,Using Machine Learning in Trading and Finance
+327,"Foundations of Sports Analytics: Data, Representation, and Models in Sports"
+117,Business Analytics Capstone
+511,Machine Translation
+424,Introduction to Data Analytics for Accounting Professionals
+354,Generative Pre-trained Transformers (GPT)
+242,Data Visualization with R
+285,Distributed Computing with Spark SQL
+227,Data Storage in Microsoft Azure
+250,DataOps Methodology
+700,Statistics for Data Science with Python
+429,"Introduction to Data, Signal, and Image Analysis with MATLAB"
+536,Microsoft Azure Machine Learning for Data Scientists
+348,Generative AI: Enhance your Data Analytics Career
+490,Machine Learning Foundations: A Case Study Approach
+32,Advanced Data Visualization with Tableau
+288,Doing More with SAS Programming
+398,Inferential Statistical Analysis with Python
+83,Bayesian Statistics: Techniques and Models
+583,Practical Time Series Analysis
+618,Production Machine Learning Systems
+215,Data Science Ethics
+230,Data Visualization
+60,"Applied Plotting, Charting & Data Representation in Python"
+671,Security for Artificial Intelligence Software and Services
+380,Guided Tour of Machine Learning in Finance
+612,Probabilistic Graphical Models 3: Learning
+369,Getting and Cleaning Data
+590,Predicting Credit Card Fraud with R
+350,"Generative AI: Impact, Considerations, and Ethical Issues"
+355,Geospatial Analysis with ArcGIS
+368,Getting Started with SAS Visual Analytics
+213,Data Science Coding Challenge: Loan Default Prediction
+301,Experimentation for Improvement
+627,Python and Pandas for Data Engineering
+56,Applied Calculus with Python
+202,Data Integration with Microsoft Azure Data Factory
+62,Applied Text Mining in Python
+300,Experimental Design Basics
+320,Fitting Statistical Models to Data with Python
+535,Microsoft Azure Machine Learning
+617,Process Mining: Data science in Action
+718,Text Mining and Analytics
+716,TensorFlow on Google Cloud
+430,Introduction to Deep Learning
+346,Generative AI: Business Transformation and Career Growth
+257,Deep Learning Applications for Computer Vision
+304,Exploratory Data Analysis
+541,Modern Regression Analysis in R
+624,Python Essentials for MLOps
+84,Bayesian Statistics: Time Series Analysis
+192,Data Analysis with Tableau
+145,Code Free Data Science
+296,Essential Design Principles for Tableau
+470,Linear Algebra: Linear Systems and Matrix Equations
+602,"Prepare, Clean, Transform, and Load Data using Power BI"
+582,Practical SAS Programming and Certification Review
+382,Hadoop Platform and Application Framework
+688,"Spark, Hadoop, and Snowflake for Data Engineering"
+623,Python Data Analytics
+299,Excel Basics for Data Analysis
+509,Machine Learning: Regression
+385,How Google does Machine Learning
+761,Visual Analytics with Tableau
+705,Structured Query Language (SQL) using SAS
+607,Principles of fMRI 1
+104,Build and Operate Machine Learning Solutions with Azure
+646,Reinforcement Learning for Trading Strategies
+712,Supply Chain Software Tools
+82,Bayesian Statistics: Mixture Models
+397,Improving your statistical inferences
+125,COVID19 Data Analysis Using Python
+634,Qlik Sense for Beginners: Analyze and Visualize Data
+534,Microsoft Azure Databricks for Data Engineering
+207,Data Mining Pipeline
+442,Introduction to Neurohacking In R
+201,Data Engineering with Rust
+592,Prediction Models with Sports Data
+336,Fundamentals of Machine Learning in Finance
+694,Statistical Inference
+88,"Big Data, Artificial Intelligence, and Ethics"
+149,Communicating Data Insights with Tableau
+515,Managing Big Data with MySQL
+394,Implementing Supply Chain Analytics
+455,Introduction to Statistical Analysis: Hypothesis Testing
+8,AI Workflow: AI in Production
+760,"Virtualization, Docker, and Kubernetes for Data Engineering"
+438,Introduction to Machine Learning: Supervised Learning
+284,Diabetic Retinopathy Detection with Artificial Intelligence
+280,Developing AI Policy
+425,Introduction to Data Analytics for Business
+414,Introduction to Big Data
+179,Data Analysis and Presentation Skills: the PwC Approach Final Project
+440,Introduction to Microsoft Azure Synapse Analytics
+750,Using Advanced Formulas and Functions in Excel
+579,Power BI for Beginners Introduction to DAX Language
+647,Reinforcement Learning in Finance
+506,Machine Learning: Classification
+102,Build a Machine Learning Web App with Streamlit and Python
+672,Sentiment Analysis with Deep Learning using BERT
+484,MLOps Platforms: Amazon SageMaker and Azure ML
+448,Introduction to Python Fundamentals
+584,Practicing for the SAS Programming Certification Exam
+469,Leveraging Virtual Assistants for Personal Productivity
+12,AI Workflow: Feature Engineering and Bias Detection
+191,Data Analysis with Spreadsheets and SQL
+649,Reproducible Research
+276,Detecting COVID-19 with Chest X-Ray using PyTorch
+702,Statistics with SAS
+371,Getting started with TensorFlow 2
+331,Fundamentals of Data Analytics in the Public Sector with R
+656,SARS-CoV-2 Protein Modeling and Drug Docking
+449,Introduction to R Programming and Tidyverse
+165,Creating Dashboards and Storytelling with Tableau
+318,Feature Engineering
+605,Preparing for the SAS Programming Certification Exam
+74,"Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions"
+131,Causal Inference
+494,Machine Learning Operations (MLOps): Getting Started
+589,Predict Sales and Forecast Trends in Google Sheets
+578,Population Health: Responsible Data Analysis
+408,Intro to AI Engineering
+342,Generalized Linear Models and Nonparametric Regression
+725,The Pytorch basics you need to start your ML projects
+391,Image Compression and Generation using Variational Autoencoders in Python
+643,Regression Models
+214,Data Science Companion
+372,Github CoPilot for Beginners: Write Software With AI
+364,Getting Started with Data Visualization in R
+290,Emotion AI: Facial Key-points Detection
+757,Using TensorFlow with Amazon Sagemaker
+281,Developing Data Models with LookML
+259,Deep Learning for Real Estate Price Prediction
+174,Customer Service with Python: Build a Chatbot using ChatGPT
+366,Getting Started with Rstudio
+161,Create Interactive Dashboards with Streamlit and Python
+628,Python for Beginners: Variables and Strings
+236,Data Visualization in Tableau: Create Dashboards and Stories
+195,Data Cleaning in Excel: Techniques to Clean Messy Data
+140,Climate Geospatial Analysis on Python with Xarray
+476,Linear Regression for Business Statistics
+91,Breast Cancer Prediction Using Machine Learning
+286,Doing Clinical Research: Biostatistics with the Wolfram Language
+692,Statistical Analysis Fundamentals using Excel
+507,Machine Learning: Clustering & Retrieval
+485,MLOps Tools: MLflow and Hugging Face
+226,Data Scientist Career Guide and Interview Preparation
+727,The Role of the CEO in Navigating GenAI
+520,Mastering Data Analysis in Excel
+153,Computational Social Science Methods
+9,AI Workflow: Business Priorities and Data Ingestion
+471,"Linear Algebra: Matrix Algebra, Determinants, & Eigenvectors"
+86,Big Data Integration and Processing
+41,Advanced SAS Programming Techniques
+210,Data Processing and Feature Engineering with MATLAB
+543,MongoDB Aggregation Framework
+678,Setting a Generative AI Strategy
+362,Getting Started with CyberGIS
+719,Text Retrieval and Search Engines
+526,Math behind Moneyball
+453,Introduction to Relational Databases
+549,Natural Language Processing on Google Cloud
+245,Data Warehousing with Microsoft Azure Synapse Analytics
+244,Data Visualization with Tableau Project
+108,Building Production-Ready Apps with Large Language Models
+410,Intro to Time Series Analysis in R
+580,Practical Decision-Making Using No-code ML on AWS
+500,Machine Learning for Telecom Customers Churn Prediction
+496,Machine Learning Rapid Prototyping with IBM Watson Studio
+92,"Build AI Apps with ChatGPT, Dall-E, and GPT-4"
+749,Use Generative AI as Your Thought Partner
+473,Linear Regression
+772,XG-Boost 101: Used Cars Price Prediction
+407,Interprofessional Healthcare Informatics
+604,Preparing for AI-900: Microsoft Azure AI Fundamentals exam
+504,Machine Learning with PySpark: Customer Churn Analysis
+654,"Reverse and complement nucleic acid sequences (DNA, RNA) using R"
+308,Exploratory Data Analysis with MATLAB
+630,Python for Data Science
+501,Machine Learning in the Enterprise
+622,Publishing Visualizations in R with Shiny and flexdashboard
+292,Empowering and Transforming Your Organization with GenAI
+554,Navigating Generative AI Risks for Leaders
+87,Big Data Modeling and Management Systems
+703,Storytelling With Data
+10,AI Workflow: Data Analysis and Hypothesis Testing
+499,Machine Learning for Computer Vision
+373,Global Statistics - Composite Indices for International Comparisons
+437,Introduction to Machine Learning in Sports Analytics
+162,Create Technical Stock Charts Using R and Quantmod
+483,ML Pipelines on Google Cloud
+542,Moneyball and Beyond
+521,Mastering Data Analysis with Pandas
+544,Multiple Linear Regression with scikit-learn
+185,Data Analysis with OpenAI API: Save time with GenAI
+478,Linear Regression with Python
+762,Visualization for Data Journalism
+423,Introduction to Data Analytics
+588,Predict Future Product Prices Using Facebook Prophet
+283,Diabetes Prediction With Pyspark MLLIB
+401,Interactive Machine Learning Dashboards using Plotly Dash
+561,New Ways of Working in an AI World
+608,Principles of fMRI 2
+660,SQL Window Functions for Analytics
+748,Unsupervised Machine Learning for Customer Market Segmentation
+411,Introduction to Applied Machine Learning
+0,3D SARS-CoV-19 Protein Visualization With Biopython
+200,Data Engineering with MS Azure Synapse Apache Spark Pools
+46,Analysing Covid-19 Geospatial data with Python
+279,Developing AI Applications on Azure
+565,Operational Analytics with Microsoft Azure Synapse Analytics
+133,Cervical Cancer Risk Prediction Using Machine Learning
+66,Artificial Intelligence Privacy and Convenience
+699,"Statistics and Data Analysis with Excel, Part 1"
+518,"Managing, Describing, and Analyzing Data"
+467,Learn Embeddings and Vector Databases
+517,Managing Machine Learning Projects with Google Cloud
+698,Statistics For Data Science
+79,Bayesian Statistics
+685,Social Network Analysis
+199,Data Engineering in AWS
+180,Data Analysis and Reporting in SAS Visual Analytics
+574,"Performing Network, Path, and Text Analyses in SAS Visual Analytics"
+547,Natural Language Processing in Microsoft Azure
+72,Azure Data Lake Storage Gen2 and Data Streaming Solution
+235,Data Visualization in R with ggplot2
+577,Population Health: Predictive Analytics
+99,Build a Data Science Web App with Streamlit and Python
+164,Creating Advanced Reports with SAS Visual Analytics
+754,Using Data for Geographic Mapping and Forecasting in SAS Visual Analytics
+687,Sourcing Analytics
+596,Predictive Modeling and Machine Learning with MATLAB
+420,Introduction to Customer Segmentation in Python
+268,Deploy Models with TensorFlow Serving and Flask
+302,Explainable AI: Scene Classification and GradCam Visualization
+343,Generate Synthetic Images with DCGANs in Keras
+136,"Classification Trees in Python, From Start To Finish"
+293,English/French Translator: Long Short Term Memory Networks
+357,Geospatial Data Visualization using Python and Folium
+260,Deep Learning with PyTorch : Build an AutoEncoder
+73,Bank Loan Approval Prediction With Artificial Neural Nets
+13,"AI Workflow: Machine Learning, Visual Recognition and NLP"
+451,Introduction to R: Basic R syntax
+273,Descriptive and Inferential Statistics in R
+477,Linear Regression with NumPy and Python
+724,The Power of Statistics
+731,Titanic Survival Prediction Using Machine Learning
+317,Fashion Classification with Deep Learning for Beginners
+110,Building Recommendation System Using MXNET on AWS Sagemaker
+503,Machine Learning with ChatGPT: Image Classification Model
+519,Master Data Analysis with Pandas: Learning Path 1 (Enhanced)
+316,Fake News Detection with Machine Learning
+744,University Admission Prediction Using Multiple Linear Regression
+452,Introduction to Recommender Systems: Non-Personalized and Content-Based
+458,Introduction to Systems and Network Mapping with Kumu
+61,Applied Social Network Analysis in Python
+461,Introduction to Vertex AI
+22,AWS: Data Collection Systems
+11,AI Workflow: Enterprise Model Deployment
+428,Introduction to Data Visualization in Qlik Sense
+100,Build a Data Warehouse Using BigQuery
+557,Neural Network from Scratch in TensorFlow
+510,Machine Teaching for Autonomous AI
+224,Data Science in Stratified Healthcare and Precision Medicine
+237,Data Visualization using dplyr and ggplot2 in R
+658,SQL CASE Statements
+141,Clinical Data Models and Data Quality Assessments
+118,Business Analytics for Decision Making
+601,Prepare for DP-203: Data Engineering on Microsoft Azure Exam
+581,Practical Machine Learning
+639,Recommendation Systems on Google Cloud
+126,COVID19 Data Visualization Using Python
+704,Structured Approach to Problem Solving
+248,"Data – What It Is, What We Can Do With It"
+619,Programming for Data Science
+691,Stability and Capability in Quality Improvement
+531,Measurement Systems Analysis
+20,ANOVA and Experimental Design
+329,Framework for Data Collection and Analysis
+335,Fundamentals of Machine Learning for Supply Chain
+266,Demand Forecasting Using Time Series
+25,Advanced AI Techniques for the Supply Chain
+307,Exploratory Data Analysis for the Public Sector with ggplot
+78,Bayesian Inference with MCMC
+595,Predictive Modeling and Analytics
+333,Fundamentals of Database Systems
+178,Data Analysis Using SQL
+282,Developing Data Products
+594,Predictive Analytics for Business with H2O in R
+472,Linear Algebra: Orthogonality and Diagonalization
+670,Scripting with Python and SQL for Data Engineering
+152,Computational Social Science Capstone Project
+90,Bitcoin Price Prediction using Facebook Prophet
+80,Bayesian Statistics: Capstone Project
+676,Serverless Data Processing with Dataflow: Foundations
+675,Serverless Data Processing with Dataflow: Develop Pipelines
+609,Probabilistic Deep Learning with TensorFlow 2
+620,Promote the Ethical Use of Data-Driven Technologies
+390,Image Classification with CNNs using Keras
+127,Calculating Descriptive Statistics in R
+533,Medical Insurance Premium Prediction with Machine Learning
+326,Foundations of Data Science: K-Means Clustering in Python
+204,Data Manipulation and Management using MYSQL Workbench
+714,"Support Vector Machines in Python, From Start to Finish"
+693,Statistical Forecasting Techniques in Google Sheets
+587,Predict Employee Turnover with scikit-learn
+253,Datadog: Getting started with the Helm Chart
+560,Neural Style Transfer with TensorFlow
+315,Factorial and Fractional Factorial Designs
+75,Basic Image Classification with TensorFlow
+233,Data Visualization in Excel: Build an Interactive Dashboard
+751,Using BigQuery in the Google Cloud Console
+715,Support Vector Machines with scikit-learn
+269,Deploy an NLP Text Generator: Bart Simpson Chalkboard Gag
+508,Machine Learning: Predict Poisonous Mushrooms using a Random Forest Model and the FFTrees Package in R
+475,Linear Regression and Multiple Linear Regression in Julia
+454,Introduction to SQL Window Functions
+166,Creating Models using Smartpls
+632,Python for Data Visualization:Matplotlib & Seaborn(Enhanced)
+274,Design and Build a Data Warehouse for Business Intelligence Implementation
+523,Mastering Data Analysis with Pandas: Learning Path Part 3
+522,Mastering Data Analysis with Pandas: Learning Path Part 2
+321,Follow a Machine Learning Workflow
+576,Pneumonia Classification using PyTorch
+47,Analyze Box Office Data with Seaborn and Python
+33,Advanced Deep Learning Methods for Healthcare
+203,Data Management and Visualization
+223,Data Science in Real Life
+163,Create a Sales Dashboard using Power BI
+564,Object Detection with Amazon Sagemaker
+462,Introduction to the Tidyverse
+752,Using DAX throughout PowerBI to create robust data scenarios
+766,Wearable Technologies and Sports Analytics
+726,The R Programming Environment
+310,Extract Text Data with Python and Regex
+120,"Business Intelligence Concepts, Tools, and Applications"
+175,Customising your models with TensorFlow 2
+101,Build a Machine Learning Image Classifier with Python
+444,Introduction to Predictive Modeling
+182,Data Analysis in Python: Using Pandas DataFrames
+486,Machine Learning - Anomaly Detection via PyCaret
+640,Recommender Systems: Evaluation and Metrics
+498,Machine Learning With Big Data
+447,Introduction to Python Functions
+197,Data Collection and Root Cause Analysis
+379,Graph Analytics for Big Data
+30,Advanced Data Science Capstone
+642,Regression Modeling Fundamentals
+479,Logistic Regression and Prediction for Health Data
+729,The Total Data Quality Framework
+155,Computer Vision Fundamentals with Google Cloud
+31,Advanced Data Visualization with R
+400,Insights of Power BI
+85,Big Data - Capstone Project
+190,Data Analysis with SQL: Inform a Business Decision
+254,Dealing With Missing Data
+686,Solve Business Problems with AI and Machine Learning
+157,Connect an App to a Cloud SQL for PostgreSQL Instance
+205,Data Manipulation at Scale: Systems and Algorithms
+29,Advanced Data Analysis and Collaboration in Qlik Sense
+142,Cloud SQL for MySQL: Qwik Start
+446,Introduction to PyMC3 for Bayesian Modeling and Inference
+128,Capstone Project: Advanced AI for Drug Discovery
+493,Machine Learning Models in Science
+559,Neural Networks and Random Forests
+229,Data Storytelling
+146,Combining and Analyzing Complex Data
+527,Mathematical Biostatistics Boot Camp 2
+119,Business Applications of Hypothesis Testing and Confidence Interval Estimation
+717,Tesla Stock Price Prediction using Facebook Prophet
+154,Computer Simulations
+637,"Random Models, Nested and Split-plot Designs"
+177,Data Analysis Using Python
+606,Principal Component Analysis with NumPy
+680,Simple Linear Regression for the Absolute Beginner
+361,Getting Started in Google Analytics
+319,Fine Tune BERT for Text Classification with TensorFlow
+769,"Where, Why, and How of Lambda Functions in Python"
+405,Interpretable machine learning applications: Part 3
+19,AI-Powered Chest Disease Detection and Classification
+111,Building Statistical Models in R: Linear Regression
+325,Foundations of Data Science
+171,Custom Prediction Routine on Google AI Platform
+76,Basic Sentiment Analysis with TensorFlow
+659,SQL Date Time Functions
+313,FIFA20 Data Exploration using Python
+138,Classify Radio Signals with PyTorch
+240,Data Visualization with Plotly Express
+591,Predicting Salaries with Decision Trees
+291,Employee Attrition Prediction Using Machine Learning
+393,Image Denoising Using AutoEncoders in Keras and Python
+629,Python for Data Analysis: Pandas & NumPy
+599,Predictive Modelling with Azure Machine Learning Studio
+115,Building and analyzing linear regression model in R
+571,Perform Sentiment Analysis with scikit-learn
+239,Data Visualization with OpenAI API: Generate code with GenAI
+482,"ML Parameters Optimization: GridSearch, Bayesian, Random"
+524,Mastering Data Analysis with Pandas: Learning Path Part 4
+272,Deploying a Pytorch Computer Vision Model API to Heroku
+481,Logistic Regression with Python and Numpy
+97,Build Multilayer Perceptron Models with Keras
+251,Database Creation and Modeling using MYSQL Workbench
+711,Supply Chain Network Optimization Using MILP on RStudio
+525,Mastering Data Analysis with Pandas: Learning Path Part 5
+546,Naive Bayes 101: Resume Selection with Machine Learning
+457,Introduction to Statistics in Python
+392,Image Data Augmentation with Keras
+360,Get Started with R Markdown
+303,Explainable Machine Learning with LIME and H2O in R
+255,Decision Tree Classifier for Beginners in R
+586,Predict Diabetes with a Random Forest using R
+265,Deep-Dive into Tensorflow Activation Functions
+653,"Reverse and complement nucleic acid sequences (DNA, RNA) using Python"
+645,Regression with Automatic Differentiation in TensorFlow
+169,Custom Attribution Modeling with Google Analytics
+758,Using ggplot
+563,Non parametric Tests using R Cmdr
+759,Using probability distributions for real world problems in R
+184,Data Analysis in R: Predictive Analysis with Regression
+23,Access Bioinformatics Databases with Biopython
+389,Image Classification with Amazon Sagemaker
+103,Build an Income Statement Dashboard in Power BI
+487,Machine Learning Algorithms: Supervised Learning Tip to Tail
+96,"Build Decision Trees, SVMs, and Artificial Neural Networks"
+98,"Build Regression, Classification, and Clustering Models"
+312,"Extract, Transform, and Load Data"
+40,Advanced R Programming
+109,Building R Packages
+540,Modeling in AWS
+556,Nearest Neighbor Collaborative Filtering
+122,Business Statistics and Analysis Capstone
+539,Modeling Data in the Tidyverse
+764,Visualizing Data in the Tidyverse
+395,Importing Data in the Tidyverse
+771,Wrangling Data in the Tidyverse
+135,Citation Analysis for Bibliometric Study
+421,Introduction to D3.js
+713,Support Vector Machine Classification in Python
+668,Scikit-Learn For Machine Learning Classification Problems
+267,Deploy A Microsoft Azure Speech To Text Web App
+167,Creating a Data Warehouse Through Joins and Unions
+733,Traffic Sign Classification Using Deep Learning in Python/Keras
+322,Forecasting US Presidential Elections with Mixed Models
+765,Visualizing static networks with R
+51,Analyze Stock Data using R and Quantmod Package
+443,Introduction to Node-red
+21,AWS: Data Analysis and Visualization
+681,Simple Recurrent Neural Network with Keras
+734,Transfer Learning for Food Classification
+358,Get Familiar with ML basics in a Kaggle Competition
+480,Logistic Regression with NumPy and Python
+378,Graduate Admission Prediction with Pyspark ML
+572,Performing Data Aggregation using SQL Aggregate Functions
+309,Exploratory Data Analysis with Seaborn
+530,Matrix Factorization and Advanced Techniques
+228,Data Storage in Microsoft Azure for Associate Developers
+113,Building a Data Science Team
+356,Geospatial Big Data Visualization with Kepler GL
+277,Determine Shortest Paths Between Routers Using Python
+187,Data Analysis with Python: Inform a Business Decision
+737,Turn Ethical Frameworks into Actionable Steps
+275,Detect and Mitigate Ethical Risks
+26,Advanced Business Analytics Capstone
+566,Optimization for Decision Making
+208,Data Mining Project
+651,"Response Surfaces, Mixtures, and Model Building"
+386,Human Decision Making and its Biases
+677,Serverless Data Processing with Dataflow: Operations
+739,"Understanding China, 1700-2000: A Data Analytic Approach, Part 1"
+740,"Understanding China, 1700-2000: A Data Analytic Approach, Part 2"
+225,Data Science with R - Capstone Project
+635,Quantifying Relationships with Regression Models
+532,Measurement – Turning Concepts into Data
+415,Introduction to Business Analysis Using Spreadsheets: Basics
+183,Data Analysis in R with RStudio & Tidyverse
+648,Relational database systems
+37,Advanced Machine Learning Algorithms
+497,Machine Learning Using SAS Viya
+196,Data Collection and Integration
+514,Managing Big Data in Clusters and Cloud Storage
+132,Causal Inference 2
+323,Foundations for Big Data Analysis with SQL
+657,SAS® Programming for Distributed Computing in SAS® Viya®
+124,CASL Programming for Distributed Computing in SAS® Viya®
+247,Data mining of Clinical Databases - CDSS 1
+264,Deep learning in Electronic Health Records - CDSS 2
+683,Six Sigma for Process Improvement
+134,ChatGPT Prompt Engineering for Developers
+465,LangChain Chat with Your Data
+112,Building Systems with the ChatGPT API
+567,Overview of Data Visualization
+148,Communicate Effectively about Ethical Challenges in Data-Driven Technologies
+64,Artificial Intelligence Algorithms Models and Limitations
+65,Artificial Intelligence Ethics in Action
+193,Data Analyst Career Guide and Interview Preparation
+495,Machine Learning Pipelines with Azure ML Studio
+664,SQL for Data Science with R
+144,"Cluster Analysis, Association Mining, and Model Evaluation"
+262,Deep Learning with PyTorch : Image Segmentation
+139,Clean and analyze social media usage data with Python
+44,Amazon CodeWhisperer - Getting Started with Generative AI
+770,Working with BigQuery
+332,Fundamentals of Data Visualization
+575,Planning a Generative AI Project
+49,Analyze Data in a Model Car Database with MySQL Workbench
+741,Understanding Deepfakes with Keras
+206,Data Mining Methods
+305,Exploratory Data Analysis With Python and Pandas
+43,Amazon Bedrock - Getting Started with Generative AI
+669,Scrape and analyze data analyst job requirements with Python
+597,Predictive Modeling with Logistic Regression using SAS
+402,Interpretable Machine Learning Applications: Part 1
+105,Build and deploy a stroke prediction model using R
+745,Unsupervised Algorithms in Machine Learning
+755,Using Descriptive Statistics to Analyze Data in R
+742,Understanding and Applying Text Embeddings
+294,Enjoyable Econometrics
+598,"Predictive Modeling, Model Fitting, and Regression Analysis"
+58,Applied Data Science for Data Analysts
+570,Pattern Discovery in Data Mining
+54,Application of Data Analysis in Business with R Programming
+667,Scalable Machine Learning on Big Data using Apache Spark
+638,Real-time data visualization dashboard using Node-red
+143,Cluster Analysis in Data Mining
+723,"The Power of Machine Learning: Boost Business, Accumulate Clicks, Fight Fraud, and Deny Deadbeats"
+261,Deep Learning with PyTorch : Generative Adversarial Network
+562,NoSQL systems
+123,Business intelligence and data warehousing
+114,Building a Generative AI-Ready Organization
+403,Interpretable Machine Learning Applications: Part 2
+48,Analyze Data
+39,Advanced Models for Decision Making
+573,Performing Data Definition and Manipulation in SQL
+71,Automated Report Generation with Generative AI
+738,Tweet Emotion Recognition with TensorFlow
+314,Facial Expression Recognition with PyTorch
+352,Generative AI: Prompt Engineering Basics
+767,Web of Data
+130,Case studies in business analytics with ACCENTURE
+106,Build your first Machine Learning Pipeline using Dataiku
+172,Custom Reports in Google Analytics
+234,Data Visualization in Power BI: Create Your First Dashboard
+644,Regression and Classification
+406,Interpretable machine learning applications: Part 5
+735,Transfer Learning for NLP with TensorFlow Hub
+763,Visualization for Statistical Analysis
+682,Simulation Models for Decision Making
+370,Getting started with ImageJ
+413,Introduction to Bayesian Statistics
+513,Manage Data for an Online Grocer Using MySQL Workbench
+404,Interpretable Machine Learning Applications: Part 4
+568,Overview of Data Visualization in Microsoft Excel

@@ -1,0 +1,257 @@
+UserId,CourseName,Unit,Level
+43517,What is Data Science?,IBM,Beginner level
+7259,What is Data Science?,IBM,Beginner level
+112871,What is Data Science?,IBM,Beginner level
+52319,What is Data Science?,IBM,Beginner level
+71903,What is Data Science?,IBM,Beginner level
+62912,What is Data Science?,IBM,Beginner level
+56494,What is Data Science?,IBM,Beginner level
+23478,What is Data Science?,IBM,Beginner level
+84429,What is Data Science?,IBM,Beginner level
+23478,"Foundations: Data, Data, Everywhere",Google,Beginner level
+23478,Data Analytics for Lean Six Sigma,,
+23478,The Path to Insights: Data Models and Pipelines,Google,Advanced level
+23478,Introduction to Machine Learning,,
+62912,Introduction to Machine Learning,,
+23478,Data-driven Decision Making,PwC,Beginner level
+23478,The Data Scientist’s Toolbox,Johns Hopkins University,
+23478,Applied Machine Learning in Python,University of Michigan,Intermediate level
+23478,Databases and SQL for Data Science with Python,IBM,Beginner level
+52319,Databases and SQL for Data Science with Python,IBM,Beginner level
+23478,An Intuitive Introduction to Probability,,
+23478,Deep Neural Networks with PyTorch,IBM,Intermediate level
+23478,Understanding and Visualizing Data with Python,University of Michigan,Beginner level
+23478,Econometrics: Methods and Applications,,
+23478,NLP: Twitter Sentiment Analysis,Coursera Project Network,Beginner level
+23478,Supervised Machine Learning: Regression and Classification,DeepLearning.AI,Beginner level
+23478,Data Visualization and Communication with Tableau,Duke University,
+23478,R Programming,Johns Hopkins University,Intermediate level
+23478,SQL: A Practical Introduction for Querying Databases,IBM,Beginner level
+23478,Get Started with Python,Google,Advanced level
+23478,Research Data Management and Sharing,,
+23478,"Sequences, Time Series and Prediction",DeepLearning.AI,Intermediate level
+23478,Python Project for Data Science,IBM,Intermediate level
+23478,Foundations of Business Intelligence,Google,Advanced level
+23478,Computational Neuroscience,,
+23478,"Decisions, Decisions: Dashboards and Reports",Google,Advanced level
+23478,Data Visualization with Advanced Excel,PwC,Beginner level
+23478,Natural Language Processing with Probabilistic Models,DeepLearning.AI,Intermediate level
+23478,SQL for Data Science,"University of California, Davis",Beginner level
+23478,Python for Genomic Data Science,Johns Hopkins University,
+23478,Fundamentals of Scalable Data Science,IBM,Beginner level
+23478,Command Line Tools for Genomic Data Science,Johns Hopkins University,
+23478,Data Analysis with Python,IBM,Beginner level
+52319,Data Analysis with Python,IBM,Beginner level
+43517,Data Analysis with Python,IBM,Beginner level
+23478,Introduction to Data Science and scikit-learn in Python,LearnQuest,Beginner level
+23478,"Python for Data Science, AI & Development",IBM,Beginner level
+112871,"Python for Data Science, AI & Development",IBM,Beginner level
+52319,"Python for Data Science, AI & Development",IBM,Beginner level
+43517,Data Science Methodology,IBM,Beginner level
+52319,Data Science Methodology,IBM,Beginner level
+23478,Data Science Methodology,IBM,Beginner level
+23478,Generative AI for Everyone,,
+23478,Prompt Engineering for ChatGPT,Vanderbilt University,Beginner level
+23478,Ask Questions to Make Data-Driven Decisions,Google,Beginner level
+7259,Ask Questions to Make Data-Driven Decisions,Google,Beginner level
+23478,Neural Networks and Deep Learning,DeepLearning.AI,Intermediate level
+23478,Advanced Learning Algorithms,DeepLearning.AI,Beginner level
+7259,Advanced Learning Algorithms,DeepLearning.AI,Beginner level
+23478,Prepare Data for Exploration,Google,Beginner level
+23478,Introduction to Artificial Intelligence (AI),IBM,Beginner level
+49538,Introduction to Artificial Intelligence (AI),IBM,Beginner level
+23478,Process Data from Dirty to Clean,Google,Beginner level
+23478,Analyze Data to Answer Questions,Google,Beginner level
+23478,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",DeepLearning.AI,Intermediate level
+23478,Machine Learning with Python,IBM,Intermediate level
+23478,A Crash Course in Data Science,Johns Hopkins University,Beginner level
+23478,Share Data Through the Art of Visualization,Google,Beginner level
+23478,Introduction to Machine Learning in Production,DeepLearning.AI,Advanced level
+23478,Convolutional Neural Networks,DeepLearning.AI,Intermediate level
+23478,Sequence Models,DeepLearning.AI,Intermediate level
+23478,Google Data Analytics Capstone: Complete a Case Study,Google,Beginner level
+23478,Structuring Machine Learning Projects,DeepLearning.AI,Beginner level
+23478,Natural Language Processing with Classification and Vector Spaces,DeepLearning.AI,Intermediate level
+23478,Data Visualization and Dashboards with Excel and Cognos,IBM,Beginner level
+23478,Machine Learning Foundations for Product Managers,Duke University,Beginner level
+23478,Machine Learning Data Lifecycle in Production,DeepLearning.AI,Advanced level
+23478,Data Visualization with Python,IBM,Intermediate level
+23478,Data Visualization with Python,Duke University,Intermediate level
+23478,Convolutional Neural Networks in TensorFlow,DeepLearning.AI,Intermediate level
+23478,Introduction to Statistics,,
+23478,AI for Medical Diagnosis,DeepLearning.AI,Intermediate level
+23478,"Extract, Transform and Load Data in Power BI",Microsoft,Beginner level
+23478,Mathematics for Machine Learning: Linear Algebra,Imperial College London,Beginner level
+23478,Build Basic Generative Adversarial Networks (GANs),DeepLearning.AI,Intermediate level
+23478,Introduction to Computer Vision and Image Processing,IBM,Beginner level
+49538,Introduction to Computer Vision and Image Processing,IBM,Beginner level
+23478,Introduction to Deep Learning & Neural Networks with Keras,IBM,Intermediate level
+23478,Natural Language Processing in TensorFlow,DeepLearning.AI,Intermediate level
+23478,Fundamentals of Reinforcement Learning,University of Alberta,Intermediate level
+23478,Introduction to Data Science in Python,University of Michigan,Intermediate level
+7259,Introduction to Data Science in Python,University of Michigan,Intermediate level
+84429,Introduction to Data Science in Python,University of Michigan,Intermediate level
+23478,Natural Language Processing with Sequence Models,DeepLearning.AI,Intermediate level
+23478,IBM Data Analyst Capstone Project,IBM,Intermediate level
+23478,Introduction to Probability and Data with R,Duke University,Beginner level
+23478,Probabilistic Graphical Models 1: Representation,Stanford University,Advanced level
+23478,Advanced Computer Vision with TensorFlow,DeepLearning.AI,Intermediate level
+23478,Applied Data Science Capstone,IBM,Intermediate level
+23478,Build Better Generative Adversarial Networks (GANs),DeepLearning.AI,Intermediate level
+23478,"Custom Models, Layers, and Loss Functions with TensorFlow",DeepLearning.AI,Intermediate level
+23478,Introduction to Genomic Technologies,Johns Hopkins University,
+23478,A Crash Course in Causality: Inferring Causal Effects from Observational Data,,
+23478,Google Cloud Big Data and Machine Learning Fundamentals,Google Cloud,Beginner level
+23478,"Introduction to Trading, Machine Learning & GCP",Google Cloud,Intermediate level
+23478,Getting Started with SAS Programming,SAS,Beginner level
+23478,Problem Solving with Excel,PwC,Beginner level
+23478,Introduction to Embedded Machine Learning,,
+23478,Sample-based Learning Methods,University of Alberta,Intermediate level
+23478,AI for Medical Prognosis,DeepLearning.AI,Intermediate level
+23478,Tools for Data Science,IBM,Beginner level
+84429,Tools for Data Science,IBM,Beginner level
+52319,Tools for Data Science,IBM,Beginner level
+43517,Tools for Data Science,IBM,Beginner level
+23478,"Capstone: Retrieving, Processing, and Visualizing Data with Python",University of Michigan,Beginner level
+23478,Bayesian Statistics: From Concept to Data Analysis,"University of California, Santa Cruz",Intermediate level
+23478,Fundamentals of Visualization with Tableau,"University of California, Davis",Beginner level
+23478,Basic Statistics,University of Amsterdam,Beginner level
+112871,Basic Statistics,University of Amsterdam,Beginner level
+23478,"Data Wrangling, Analysis and AB Testing with SQL","University of California, Davis",Intermediate level
+23478,Mathematics for Machine Learning: PCA,Imperial College London,Intermediate level
+23478,Analyzing and Visualizing Data in Looker,Google Cloud,Beginner level
+23478,Algorithms for DNA Sequencing,Johns Hopkins University,
+23478,Apache Spark (TM) SQL for Data Analysts,Databricks,Intermediate level
+23478,Applied AI with DeepLearning,IBM,Advanced level
+23478,Data Analysis with R Programming,Google,Beginner level
+23478,Probabilistic Graphical Models 2: Inference,Stanford University,Advanced level
+23478,Probability and Statistics: To p or not to p?,,
+23478,The Unix Workbench,,
+23478,Linear Regression and Modeling,Duke University,Beginner level
+23478,Generative Deep Learning with TensorFlow,DeepLearning.AI,Intermediate level
+23478,Inferential Statistics,Duke University,Beginner level
+23478,Inferential Statistics,University of Amsterdam,
+23478,Introduction to Data Analysis Using Excel,Rice University,
+112871,Introduction to Data Analysis Using Excel,Rice University,
+23478,Business Metrics for Data-Driven Companies,Duke University,
+23478,"Foundations of Sports Analytics: Data, Representation, and Models in Sports",University of Michigan,Intermediate level
+23478,Data Visualization with R,IBM,Beginner level
+23478,Statistics for Data Science with Python,IBM,
+23478,Machine Learning Foundations: A Case Study Approach,University of Washington,
+23478,Inferential Statistical Analysis with Python,University of Michigan,Intermediate level
+23478,Practical Time Series Analysis,,
+23478,Data Science Ethics,,
+62912,Data Science Ethics,,
+23478,Data Visualization,University of Illinois at Urbana-Champaign,
+23478,"Applied Plotting, Charting & Data Representation in Python",University of Michigan,Intermediate level
+23478,Guided Tour of Machine Learning in Finance,New York University,Intermediate level
+23478,Getting and Cleaning Data,Johns Hopkins University,
+23478,Getting Started with SAS Visual Analytics,SAS,Beginner level
+23478,Experimentation for Improvement,,
+23478,Data Integration with Microsoft Azure Data Factory,Microsoft,Intermediate level
+23478,Applied Text Mining in Python,University of Michigan,Intermediate level
+23478,Microsoft Azure Machine Learning,Microsoft,Beginner level
+23478,Process Mining: Data science in Action,,
+23478,Exploratory Data Analysis,Johns Hopkins University,
+23478,Code Free Data Science,,
+23478,Practical SAS Programming and Certification Review,SAS,Intermediate level
+23478,Hadoop Platform and Application Framework,,
+23478,Excel Basics for Data Analysis,IBM,Beginner level
+23478,Machine Learning: Regression,University of Washington,
+23478,How Google does Machine Learning,Google Cloud,Beginner level
+23478,Visual Analytics with Tableau,"University of California, Davis",Beginner level
+23478,Principles of fMRI 1,Johns Hopkins University,Beginner level
+23478,Reinforcement Learning for Trading Strategies,New York Institute of Finance,Intermediate level
+23478,COVID19 Data Analysis Using Python,Coursera Project Network,Intermediate level
+23478,Data Mining Pipeline,University of Colorado Boulder,Intermediate level
+23478,Fundamentals of Machine Learning in Finance,New York University,Intermediate level
+23478,Statistical Inference,Johns Hopkins University,
+23478,"Big Data, Artificial Intelligence, and Ethics","University of California, Davis",Beginner level
+23478,Managing Big Data with MySQL,Duke University,
+23478,Introduction to Data Analytics for Business,University of Colorado Boulder,Beginner level
+23478,Introduction to Big Data,University of California San Diego,
+23478,Introduction to Microsoft Azure Synapse Analytics,Microsoft,Intermediate level
+23478,Machine Learning: Classification,University of Washington,
+23478,Build a Machine Learning Web App with Streamlit and Python,Coursera Project Network,Intermediate level
+23478,Sentiment Analysis with Deep Learning using BERT,Coursera Project Network,Intermediate level
+23478,Reproducible Research,Johns Hopkins University,
+23478,Statistics with SAS,,
+23478,Getting started with TensorFlow 2,Imperial College London,Intermediate level
+23478,Creating Dashboards and Storytelling with Tableau,"University of California, Davis",Beginner level
+23478,"Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions",Rice University,
+23478,Regression Models,Johns Hopkins University,
+23478,Create Interactive Dashboards with Streamlit and Python,Coursera Project Network,Intermediate level
+23478,Linear Regression for Business Statistics,Rice University,
+112871,Linear Regression for Business Statistics,Rice University,
+23478,Doing Clinical Research: Biostatistics with the Wolfram Language,,
+23478,Machine Learning: Clustering & Retrieval,University of Washington,
+23478,Mastering Data Analysis in Excel,Duke University,
+23478,Computational Social Science Methods,"University of California, Davis",Beginner level
+23478,Big Data Integration and Processing,University of California San Diego,Beginner level
+23478,Data Processing and Feature Engineering with MATLAB,MathWorks,Intermediate level
+23478,Getting Started with CyberGIS,,
+23478,Text Retrieval and Search Engines,University of Illinois at Urbana-Champaign,
+23478,Exploratory Data Analysis with MATLAB,MathWorks,Beginner level
+23478,Big Data Modeling and Management Systems,University of California San Diego,
+23478,Create Technical Stock Charts Using R and Quantmod,Coursera Project Network,Beginner level
+23478,Mastering Data Analysis with Pandas,Coursera Project Network,Beginner level
+23478,Multiple Linear Regression with scikit-learn,Coursera Project Network,Beginner level
+23478,Linear Regression with Python,Coursera Project Network,Intermediate level
+23478,Introduction to Data Analytics,IBM,Beginner level
+23478,Developing AI Applications on Azure,,
+23478,Managing Machine Learning Projects with Google Cloud,Google Cloud,Beginner level
+23478,Bayesian Statistics,Duke University,Intermediate level
+23478,Social Network Analysis,"University of California, Davis",Beginner level
+23478,Predictive Modeling and Machine Learning with MATLAB,MathWorks,Intermediate level
+23478,Introduction to R: Basic R syntax,Coursera Project Network,Beginner level
+23478,Linear Regression with NumPy and Python,Coursera Project Network,Intermediate level
+23478,Applied Social Network Analysis in Python,University of Michigan,Intermediate level
+23478,Neural Network from Scratch in TensorFlow,Coursera Project Network,Intermediate level
+23478,Practical Machine Learning,Johns Hopkins University,
+23478,COVID19 Data Visualization Using Python,Coursera Project Network,Intermediate level
+23478,Framework for Data Collection and Analysis,"University of Maryland, College Park",Intermediate level
+23478,Predictive Modeling and Analytics,University of Colorado Boulder,Intermediate level
+23478,Developing Data Products,Johns Hopkins University,
+23478,Promote the Ethical Use of Data-Driven Technologies,CertNexus,Beginner level
+23478,Image Classification with CNNs using Keras,Coursera Project Network,Intermediate level
+23478,Predict Employee Turnover with scikit-learn,Coursera Project Network,Intermediate level
+23478,Basic Image Classification with TensorFlow,Coursera Project Network,Beginner level
+23478,Machine Learning: Predict Poisonous Mushrooms using a Random Forest Model and the FFTrees Package in R,Coursera Project Network,Intermediate level
+23478,Design and Build a Data Warehouse for Business Intelligence Implementation,University of Colorado System,
+23478,Analyze Box Office Data with Seaborn and Python,Coursera Project Network,Intermediate level
+23478,Data Management and Visualization,Wesleyan University,
+23478,Data Science in Real Life,Johns Hopkins University,
+23478,The R Programming Environment,Johns Hopkins University,Intermediate level
+23478,"Business Intelligence Concepts, Tools, and Applications",University of Colorado System,
+23478,Graph Analytics for Big Data,University of California San Diego,
+23478,Advanced Data Science Capstone,IBM,Advanced level
+23478,Advanced Data Visualization with R,Johns Hopkins University,
+23478,Big Data - Capstone Project,University of California San Diego,
+23478,Business Applications of Hypothesis Testing and Confidence Interval Estimation,Rice University,
+23478,Data Analysis Using Python,University of Pennsylvania,Beginner level
+23478,Getting Started in Google Analytics,Coursera Project Network,Beginner level
+23478,Fine Tune BERT for Text Classification with TensorFlow,Coursera Project Network,Intermediate level
+23478,Building Statistical Models in R: Linear Regression,Coursera Project Network,Beginner level
+23478,Foundations of Data Science,Google,Advanced level
+23478,Predictive Modelling with Azure Machine Learning Studio,Coursera Project Network,Beginner level
+23478,Database Creation and Modeling using MYSQL Workbench,Coursera Project Network,Beginner level
+23478,Image Data Augmentation with Keras,Coursera Project Network,Intermediate level
+23478,Predict Diabetes with a Random Forest using R,Coursera Project Network,Intermediate level
+23478,Image Classification with Amazon Sagemaker,Coursera Project Network,Advanced level
+23478,Advanced R Programming,Johns Hopkins University,Intermediate level
+23478,Building R Packages,Johns Hopkins University,Intermediate level
+23478,Nearest Neighbor Collaborative Filtering,University of Minnesota,
+23478,Support Vector Machine Classification in Python,Coursera Project Network,Intermediate level
+23478,Logistic Regression with NumPy and Python,Coursera Project Network,Beginner level
+23478,Matrix Factorization and Advanced Techniques,University of Minnesota,
+23478,Building a Data Science Team,Johns Hopkins University,
+23478,Measurement – Turning Concepts into Data,Johns Hopkins University,Beginner level
+23478,Machine Learning Using SAS Viya,,
+23478,Managing Big Data in Clusters and Cloud Storage,Cloudera,Beginner level
+23478,Foundations for Big Data Analysis with SQL,Cloudera,Beginner level
+23478,Machine Learning Pipelines with Azure ML Studio,Coursera Project Network,Beginner level
+23478,Exploratory Data Analysis With Python and Pandas,Coursera Project Network,Beginner level
+23478,Pattern Discovery in Data Mining,University of Illinois at Urbana-Champaign,
+23478,Scalable Machine Learning on Big Data using Apache Spark,IBM,Intermediate level
+23478,Cluster Analysis in Data Mining,University of Illinois at Urbana-Champaign,
+23478,Web of Data,,
