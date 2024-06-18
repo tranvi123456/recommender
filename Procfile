@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run test GUI.ipynb
+web: sh setup.sh && streamlit run test GUI .ipynb
